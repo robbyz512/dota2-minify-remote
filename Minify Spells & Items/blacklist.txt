@@ -502,8 +502,6 @@ particles\items_fx\desolator_projectile_trail_ribbon.vpcf_c
 particles\items_fx\desolator_projectile_trail_ribbon_b.vpcf_c
 particles\items_fx\diffusal_purge_c.vpcf_c
 particles\items_fx\diffusal_purge_d.vpcf_c
-particles\items_fx\dust_of_appearance_b.vpcf_c
-particles\items_fx\dust_of_appearance_c.vpcf_c
 particles\items_fx\ethereal_blade_burst_target.vpcf_c
 particles\items_fx\ethereal_blade_explosion_cloud.vpcf_c
 particles\items_fx\ethereal_blade_explosion_flash_ray.vpcf_c
